@@ -18,6 +18,10 @@ brew install python@3.11
 ```
 
 ```bash
+poetry self add poetry-plugin-shell
+```
+
+```bash
 curl -sSL https://install.python-poetry.org | python3 -
 ```
 
